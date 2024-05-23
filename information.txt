@@ -1,0 +1,7 @@
+It is a Calennder C program It shows any calender.
+You can also store notes. File handelling is here.
+
+
+Bibhas Das
+bibhasdas1205@gmail.com
+Date: 23/2/2022
